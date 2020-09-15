@@ -26,3 +26,4 @@ def main():
         ProcessaTxt(argv[1:])
     else:
         print('Uso: Conta_Palavras arquivo1.txt arquivo2.txt ...')
+# Add line
