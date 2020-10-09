@@ -1,0 +1,9 @@
+image: 'restyled/restyler-autopep8:v1.4.4-2'
+command:
+  - autopep8
+  - '--in-place'
+arguments: []
+include:
+  - '**/*.py'
+interpreters:
+  - python
